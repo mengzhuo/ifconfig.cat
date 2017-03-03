@@ -1,0 +1,30 @@
+[submodule "vendor/github.com/gin-gonic/gin"]
+	path = vendor/github.com/gin-gonic/gin
+	url = https://github.com/gin-gonic/gin
+[submodule "vendor/github.com/golang/protobuf"]
+	path = vendor/github.com/golang/protobuf
+	url = https://github.com/golang/protobuf
+[submodule "vendor/github.com/manucorporat/sse"]
+	path = vendor/github.com/manucorporat/sse
+	url = https://github.com/manucorporat/sse
+[submodule "vendor/github.com/mattn/go-isatty"]
+	path = vendor/github.com/mattn/go-isatty
+	url = https://github.com/mattn/go-isatty
+[submodule "vendor/golang.org/x/net"]
+	path = vendor/golang.org/x/net
+	url = https://go.googlesource.com/net
+[submodule "vendor/gopkg.in/go-playground/validator.v8"]
+	path = vendor/gopkg.in/go-playground/validator.v8
+	url = https://gopkg.in/go-playground/validator.v8
+[submodule "vendor/gopkg.in/yaml.v2"]
+	path = vendor/gopkg.in/yaml.v2
+	url = https://gopkg.in/yaml.v2
+[submodule "vendor/github.com/oschwald/geoip2-golang"]
+	path = vendor/github.com/oschwald/geoip2-golang
+	url = https://github.com/oschwald/geoip2-golang
+[submodule "vendor/github.com/oschwald/maxminddb-golang"]
+	path = vendor/github.com/oschwald/maxminddb-golang
+	url = https://github.com/oschwald/maxminddb-golang
+[submodule "vendor/golang.org/x/sys"]
+	path = vendor/golang.org/x/sys
+	url = https://go.googlesource.com/sys

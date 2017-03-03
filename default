@@ -1,0 +1,11 @@
+ARGS=""
+
+#
+#	--addr ":8080"
+#	--tlsaddr ":443"
+#	--geo  ""
+#	--cert
+#	--key
+#	--tmpl="templates/*"
+#	--favicon="favicon.ico"
+#	--prometheus="127.0.0.1:10000"

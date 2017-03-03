@@ -1,0 +1,11 @@
+/var/log/ifc/*.log {
+  rotate 365
+  dateext
+  daily
+  delaycompress
+  missingok
+  notifempty
+  copytruncate
+
+  compressoptions -9
+}
