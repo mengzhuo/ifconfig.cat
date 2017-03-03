@@ -19,7 +19,7 @@ make rpm
 ```
 
 ### Params
-
+```
 Ifconfig.cat service version:v0.1
   -addr string
     	listen addr (default ":8080")
@@ -38,3 +38,4 @@ Ifconfig.cat service version:v0.1
   -tmpl string
     	template path glob (default "templates/*.tpl")
   -v	version
+```
