@@ -65,6 +65,7 @@ func (h *Handler) Root(c *gin.Context) {
 	accept := c.Request.Header.Get("Accept")
 	if len(accept) < 4 {
 		h.RootRaw(c)
+		h.requestCounter.WithLabelValues("raw").Inc()
 		return
 	}
 
