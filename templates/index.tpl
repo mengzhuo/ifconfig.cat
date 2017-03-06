@@ -29,7 +29,6 @@ div.table-title {
    font-style:normal;
    font-family: "Roboto", helvetica, arial, sans-serif;
    text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
-   text-transform:uppercase;
    text-decoration: none;
 }
 
@@ -150,9 +149,26 @@ td.text-right {
   text-align: right;
 }
 
+.menu {
+	position:fixed;	
+	top:0;
+	right:30px;
+	color:#fff;
+}
+
+.menu a {
+	color:#fff;	
+}
+
 </style>
 </head>
 <body>
+<div class="menu">
+<nav>
+	<span>Language</span>
+	<a href="/?lang=cat">Catala</a>
+</nav>
+</div>
 <div class="table-title">
 <h1><a href="/">ifconfig.cat</a></h1>
 </div>
