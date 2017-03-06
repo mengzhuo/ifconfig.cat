@@ -1,6 +1,8 @@
 # ifconfig.cat
 ifconfig.cat source code
 
+![](https://raw.githubusercontent.com/mengzhuo/ifconfig.cat/master/ifc_screenshot.png)
+
 ### GeoLite DB
 
 http://dev.maxmind.com/geoip/geoip2/geolite2/
